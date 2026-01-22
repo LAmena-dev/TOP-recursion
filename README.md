@@ -1,2 +1,2 @@
-# TOP-recursion
-A TOP project repository to practice recursion
+# TOP-computer-science
+A TOP project repository to practice computer science fundamentals, data structures and algorithms.
